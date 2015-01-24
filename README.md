@@ -1,5 +1,16 @@
 Assignment completed and submitted 24/1/15
-- hlw
+
+It can be tested like this:
+
+```R
+> test1 <- matrix(sample(1:64), 8, 8)
+> test1Inv <- solve(test1)
+> identical(cacheSolve(makeCacheMatrix(test1)), test1Inv)
+[1] TRUE
+```
+
+
+\- hlw
 
 ### Introduction
 
