@@ -1,3 +1,6 @@
+Assignment completed and submitted 24/1/15
+- hlw
+
 ### Introduction
 
 This second programming assignment will require you to write an R
